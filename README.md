@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+In this project, I retrieve data from API in JSON format to obtain and analyze weather data on various travel destinations from around the world using citipy and matplotlib to create plots and heatmaps, as well as conducting linear regressions to find correlations between several weather and location variables. A travel itinerary map is created through the use of Google Maps APIs.
